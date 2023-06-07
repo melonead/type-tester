@@ -1,0 +1,46 @@
+DONE-----------------------------------------------------
+
+show a max of three lines
+move one line up when a sentences is finished
+capital letters
+
+calculate the speed
+punctuations
+preview of what is being typed
+
+YET TO BE DONE -------------------------------------------
+
+
+
+finish a typing session + typing a new one
+    RESET EVERYTHING TO START
+    GET A BOOLEAN AND CHANGE A FEW THINGS
+    GET THINGS THAT: (NEED TO CHANGE, THINGS THAT STAY CONSTANT)
+
+    RESULT STORED BOOLEAN -----> IF TRUE (DON'T STORE AGAIN) OTHERWISE (STORE)
+
+
+
+
+show red when the typed word starts being wrong(while typing)
+a typing area to focus on inorder to start typing
+
+
+how can I generate text 
+    download online
+    give user ability to add their own text
+
+store the scores
+generate statistics and graphs from the stored data (scores)
+    weekly statistics
+
+
+
+------------------------------------------------
+Statistics button on the main display
+last score
+best score
+replay button
+
+-------------------------------------------------
+statistics link on the main screen
